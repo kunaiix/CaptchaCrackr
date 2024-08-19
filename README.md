@@ -1,5 +1,5 @@
 # CaptchaCrackr
-A python program which can solve captcha images.
+A python program which can solve captcha images using a custom developed machine learning model.
 
 Made using Tensorflow, Keras, Keras-OCR and Numpy. The model is trained using a captcha image dataset from [https://github.com/AakashKumarNain/CaptchaCracker]. 
 
