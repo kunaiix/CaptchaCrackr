@@ -3,7 +3,7 @@ A python program which can solve captcha images using a custom developed machine
 
 Made using Tensorflow, Keras, Keras-OCR and Numpy. The model is trained using a captcha image dataset from [https://github.com/AakashKumarNain/CaptchaCracker]. 
 
-Developed with 5 character captcha images, uses 'relu' activator and 'adam' optimizer.
+Developed with 5 character captcha images.
 Image preprocessing is basic, converts to greyscale and enhances it. 
 Image target size is 200x50
 
